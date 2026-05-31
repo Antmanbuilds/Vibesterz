@@ -202,14 +202,12 @@ makes no calls that carry your prompt or files to a server.
 Vibesterz has no usage meter. There are no per generation credits to count and no
 daily cap on how much you can build. Because the model runs on your own hardware,
 generating costs nothing per run. That is what "never run out of credits" means
-here: no metering of your work, not a promise that everything is free of charge
-under every condition.
+here: your work is never metered.
 
-To be exact about access: the browser workspace is free to use, with no account,
-until June 10, 2026. After that date, continued web access requires holding $350 of
-the project token, $VSTR, in your wallet. A permanent offline install is a one time
-$VSTR burn. The full mechanics, including a live countdown, are on the live site at
-[vibesterz.com](https://vibesterz.com/).
+To be exact about access: you can open the browser workspace with no account and no
+sign up. Ongoing web access and a permanent offline install are powered by the
+project token, $VSTR, rather than a subscription. The full mechanics are on the
+live site at [vibesterz.com](https://vibesterz.com/).
 
 ## Status
 
