@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Open the live app
+    url: https://vibesterz.replit.app/
+    about: Try Vibesterz in your browser.
+  - name: Questions and ideas
+    url: https://github.com/Antmanbuilds/vibesterz/discussions
+    about: Ask a question or share an idea in Discussions.
+  - name: Follow on X
+    url: https://x.com/Vibesterz_
+    about: Updates and launch news.
