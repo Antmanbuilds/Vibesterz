@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vibesterz.replit.app/"><strong>Open the live app</strong></a>
+  <a href="https://vibesterz.com/"><strong>Open the live app</strong></a>
   &nbsp;&middot;&nbsp;
   <a href="https://x.com/Vibesterz_">Follow on X</a>
 </p>
@@ -39,7 +39,7 @@ off, because Vibesterz is an offline first progressive web app.
 
 This repository is the public home for the project: what it does, how it is built
 at a high level, how it protects your data, and where to follow along. The product
-itself lives at [vibesterz.replit.app](https://vibesterz.replit.app/).
+itself lives at [vibesterz.com](https://vibesterz.com/).
 
 ## Why it matters
 
@@ -209,7 +209,7 @@ To be exact about access: the browser workspace is free to use, with no account,
 until June 10, 2026. After that date, continued web access requires holding $350 of
 the project token, $VSTR, in your wallet. A permanent offline install is a one time
 $VSTR burn. The full mechanics, including a live countdown, are on the live site at
-[vibesterz.replit.app](https://vibesterz.replit.app/).
+[vibesterz.com](https://vibesterz.com/).
 
 ## Status
 
@@ -219,7 +219,7 @@ soon in the toolbox.
 
 ## Stay in touch
 
-- Live app: [vibesterz.replit.app](https://vibesterz.replit.app/)
+- Live app: [vibesterz.com](https://vibesterz.com/)
 - X: [@Vibesterz_](https://x.com/Vibesterz_)
 - Questions and ideas: open a [Discussion](../../discussions)
 - Something not working: open an [Issue](../../issues)

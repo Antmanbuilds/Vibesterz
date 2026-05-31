@@ -11,7 +11,7 @@ Please report security issues privately rather than opening a public issue.
 
 - Preferred: open a private security advisory through GitHub on this repository.
 - Alternative: send a direct message on X to [@Vibesterz_](https://x.com/Vibesterz_),
-  or use the contact form at [vibesterz.replit.app/contact](https://vibesterz.replit.app/contact).
+  or use the contact form at [vibesterz.com/contact](https://vibesterz.com/contact).
 
 When you report, please include:
 
@@ -31,7 +31,7 @@ When you report, please include:
 
 In scope:
 
-- The live application at [vibesterz.replit.app](https://vibesterz.replit.app/).
+- The live application at [vibesterz.com](https://vibesterz.com/).
 - The contents of this repository.
 
 Out of scope:

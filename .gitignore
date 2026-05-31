@@ -22,6 +22,4 @@ build/
 # Local tooling and agent state (never publish)
 .local/
 .agents/
-.replit
-replit.nix
 attached_assets/
