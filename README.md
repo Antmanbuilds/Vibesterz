@@ -64,8 +64,10 @@ your data going to a data center.
 
 ## The toolbox
 
-Beyond building apps, Vibesterz ships 59 focused tools across ten areas. Every one
-of them runs in your browser. Nothing is uploaded.
+Beyond building apps, Vibesterz ships 59 focused tools across ten areas. They run
+on your device and process your content locally, not on a server. This is the full
+set, grouped by what you are trying to do. It is deliberately broad. The goal is a
+tool you actually reach for, not a thin demo.
 
 ### Code Intelligence
 Generate, run and reason about code on your device.
@@ -197,14 +199,16 @@ makes no calls that carry your prompt or files to a server.
 
 ## Never run out of credits
 
-Vibesterz has no usage meter. There are no credits to buy, no tokens to count per
-request, and no daily cap on how much you can build. Because the model runs on your
-own hardware, each generation costs nothing per run and you can keep going for as
-long as you like.
+Vibesterz has no usage meter. There are no per generation credits to count and no
+daily cap on how much you can build. Because the model runs on your own hardware,
+generating costs nothing per run. That is what "never run out of credits" means
+here: no metering of your work, not a promise that everything is free of charge
+under every condition.
 
-The browser workspace is free to start with no account and no card. A permanent
-offline install and continued access are powered by the project token, $VSTR. The
-exact mechanics are documented on the live site at
+To be exact about access: the browser workspace is free to use, with no account,
+until June 10, 2026. After that date, continued web access requires holding $350 of
+the project token, $VSTR, in your wallet. A permanent offline install is a one time
+$VSTR burn. The full mechanics, including a live countdown, are on the live site at
 [vibesterz.replit.app](https://vibesterz.replit.app/).
 
 ## Status
